@@ -1,7 +1,7 @@
 # Lu, Po-Yu (Daniel)
-Data · Natural Language Processing (NLP) · Machine Learning (ML) · Decision-Grade Analytics
+< Data · Natural Language Processing (NLP) · Machine Learning (ML) · Decision-Grade Analytics >
 
-I build retrieval-and-analytics systems that turn messy text into **audit-ready, actionable answers**—with a focus on sustainability/ESG compliance.
+I build retrieval-and-analytics systems that turn messy text into **audit-ready, actionable answers**—with a focus on sustainability and ESG compliance.
 
 
 🎓 Applying to Master of Computer Science / Data Science (Fall 2026)
