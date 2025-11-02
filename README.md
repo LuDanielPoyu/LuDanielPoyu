@@ -27,12 +27,18 @@ I build retrieval-and-analytics systems that turn messy text into **audit-ready,
   Repo: [AICUP2023-NLP](https://github.com/mao-code/AICUP2023-NLP)
 - **Geospatial Retail Site Selection & Demand Forecasting - National WAI AI Data Hackathon** 
 
-  Repo: [AICUP2023-NLP](https://github.com/mao-code/AICUP2023-NLP)
+  Repo: [WAI-AI-Hackathon-Competition](https://github.com/LuDanielPoyu/2023-WAI-AI-Hackathon-Competition)
+- **LnData Taiwan Spirit Market Project - NCCU Data Analysis Student Club** 
+
+  Repo: [LnData-Spirit-Market-Data-Analysis-Report](https://github.com/LuDanielPoyu/LnData-Spirit-Market-Data-Analysis-Report)
+- **NCCUPass App - NCCU Google Developer Student Club** 
+
+  Repo: [GDSC-NCCUPass-Project]([https://github.com/frafishen/CO2K](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
 - **IT Engineer Intern - Volkswagen Group**
 
   Repo: [Volkswagen-IT-Engineer](https://github.com/LuDanielPoyu/Volkswagen-IT-Engineer)
 - **Android App: “Crazy Cooking” — Intelligent Cooking Assistant - National Technology Innovation Competition** 
 
   Repo: [Crazy Cooking App](https://github.com/frafishen/CO2K)
-
+  
 > **Note:** Job related repos use sanitized descriptions and synthetic examples only.
