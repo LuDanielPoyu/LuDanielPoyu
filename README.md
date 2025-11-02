@@ -33,7 +33,7 @@ I build retrieval-and-analytics systems that turn messy text into **audit-ready,
   Repo: [LnData-Spirit-Market-Data-Analysis-Report](https://github.com/LuDanielPoyu/LnData-Spirit-Market-Data-Analysis-Report)
 - **NCCUPass App - NCCU Google Developer Student Club** 
 
-  Repo: [GDSC-NCCUPass-Project]([https://github.com/frafishen/CO2K](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
+  Repo: [GDSC-NCCUPass-Project](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
 - **IT Engineer Intern - Volkswagen Group**
 
   Repo: [Volkswagen-IT-Engineer](https://github.com/LuDanielPoyu/Volkswagen-IT-Engineer)
