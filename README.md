@@ -16,12 +16,15 @@ I build retrieval-and-analytics systems that turn messy text into **audit-ready,
 - **System Integration and Software Testing Intern - ASML**
   
   Repo: [ASML-System-Integration-and-Software-Testing-Engineer](https://github.com/LuDanielPoyu/ASML-System-Integration-and-Software-Testing-Engineer)
-- **Compliance Analysis of Corporate Social Responsibility (CSR) Reports**
+- **Compliance Analysis of Corporate Social Responsibility (CSR) Reports - National Chengchi University (NCCU)**
 
   Repo: [Compliance-Analysis-of-Corporate-Social-Responsibility-Reports](https://github.com/LuDanielPoyu/Compliance-Analysis-of-Corporate-Social-Responsibility-Reports)
-- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs – Classification, Question Answering, Summarization & Remediation** 
+- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs – Classification, Question Answering, Summarization & Remediation - National Chengchi University (NCCU)** 
 
   Repo: [Cowrie-Log-Helper](https://github.com/LuDanielPoyu/Cowrie-Log-Helper)
+-- **Fact Retrieval & Claim Verification - National AI Cup - NLP** 
+
+  Repo: [AICUP2023-NLP](https://github.com/mao-code/AICUP2023-NLP)
 - **IT Engineer Intern - Volkswagen Group**
 
   Repo: [Volkswagen-IT-Engineer](https://github.com/LuDanielPoyu/Volkswagen-IT-Engineer)
