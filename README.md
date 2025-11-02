@@ -2,7 +2,7 @@
 - Data · Natural Language Processing (NLP) · Machine Learning (ML) · Decision-Grade Analytics. I build retrieval-and-analytics systems that turn messy text into **audit-ready, actionable answers**—with a focus on sustainability/ESG compliance.
 
 
-- 🎓 Applying to Master of Computer Science and Data Science (Fall 2026)
+- 🎓 Applying to Master of Computer Science / Data Science (Fall 2026)
 - 🏢 McKinsey Data Scientist (Full-Time, 2025) · ASML System Integration and Software Testing Intern (Part-Time, 2024) · Volkswagen Group IT Intern (Part-Time, 2023)
 - 📫 danielpoyu6@gmail.com
 
