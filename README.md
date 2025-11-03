@@ -31,12 +31,12 @@ I build retrieval-and-analytics systems that turn messy text into **audit-ready,
 - **LnData Taiwan Spirit Market Project - NCCU Data Analysis Student Club** 
 
   Repo: [LnData-Spirit-Market-Data-Analysis-Report](https://github.com/LuDanielPoyu/LnData-Spirit-Market-Data-Analysis-Report)
-- **NCCUPass App - NCCU Google Developer Student Club** 
-
-  Repo: [GDSC-NCCUPass-Project](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
 - **IT Engineer Intern - Volkswagen Group**
 
   Repo: [Volkswagen-IT-Engineer](https://github.com/LuDanielPoyu/Volkswagen-IT-Engineer)
+- **NCCUPass App - NCCU Google Developer Student Club** 
+
+  Repo: [GDSC-NCCUPass-Project](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
 - **Android App: “Crazy Cooking” — Intelligent Cooking Assistant - National Technology Innovation Competition** 
 
   Repo: [Crazy Cooking App](https://github.com/frafishen/CO2K)
