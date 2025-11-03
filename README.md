@@ -25,12 +25,12 @@ I build retrieval-and-analytics systems that turn messy text into **audit-ready,
 - **Fact Retrieval & Claim Verification - National AI Cup - NLP** 
 
   Repo: [AICUP2023-NLP](https://github.com/mao-code/AICUP2023-NLP)
-- **Geospatial Retail Site Selection & Demand Forecasting - National WAI AI Data Hackathon** 
-
-  Repo: [WAI-AI-Hackathon-Competition](https://github.com/LuDanielPoyu/2023-WAI-AI-Hackathon-Competition)
 - **LnData Taiwan Spirit Market Project - NCCU Data Analysis Student Club** 
 
   Repo: [LnData-Spirit-Market-Data-Analysis-Report](https://github.com/LuDanielPoyu/LnData-Spirit-Market-Data-Analysis-Report)
+- **Geospatial Retail Site Selection & Demand Forecasting - National WAI AI Data Hackathon** 
+
+  Repo: [WAI-AI-Hackathon-Competition](https://github.com/LuDanielPoyu/2023-WAI-AI-Hackathon-Competition)
 - **IT Engineer Intern - Volkswagen Group**
 
   Repo: [Volkswagen-IT-Engineer](https://github.com/LuDanielPoyu/Volkswagen-IT-Engineer)
