@@ -31,7 +31,7 @@ I build retrieval-and-analytics systems that turn messy data into **audit-ready,
 - **National WAI AI Data Hackathon — Geospatial Retail Site Selection & Demand Forecasting (2nd place)** 
 
   Repo: [WAI-AI-Hackathon-Competition](https://github.com/LuDanielPoyu/2023-WAI-AI-Hackathon-Competition)
-- **Volkswagen Group — IT Engineer**
+- **Volkswagen Group — IT Engineer Intern**
 
   Repo: [Volkswagen-IT-Engineer](https://github.com/LuDanielPoyu/Volkswagen-IT-Engineer)
 - **NCCUPass App — Backend Engineer (NCCU Google Developer Student Club)**
