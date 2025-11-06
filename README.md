@@ -16,16 +16,16 @@ I build retrieval-and-analytics systems that turn messy data into **audit-ready,
 - **ASML — System Integration & Software Testing Intern**
   
   Repo: [ASML-System-Integration-and-Software-Testing-Engineer](https://github.com/LuDanielPoyu/ASML-System-Integration-and-Software-Testing-Engineer)
-- **Compliance Analysis of Corporate Social Responsibility (CSR) Reports - ML/NLP Engineer (National Chengchi University, NCCU)**
+- **Compliance Analysis of Corporate Social Responsibility (CSR) Reports — ML/NLP Engineer (National Chengchi University, NCCU)**
 
   Repo: [Compliance-Analysis-of-Corporate-Social-Responsibility-Reports](https://github.com/LuDanielPoyu/Compliance-Analysis-of-Corporate-Social-Responsibility-Reports)
-- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs with Classification, Question Answering, Summarization & Remediation - ML/Full-Stack Engineer (NCCU)** 
+- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs with Classification, Question Answering, Summarization & Remediation — ML/Full-Stack Engineer (NCCU)** 
 
   Repo: [Cowrie-Log-Helper](https://github.com/LuDanielPoyu/Cowrie-Log-Helper)
 - **National AI Cup NLP — Fact Retrieval & Claim Verification (4th place)**
   
   Repo: [AICUP2023-NLP](https://github.com/mao-code/AICUP2023-NLP)
-- **LnData Taiwan Spirit Market Project - Project Manager & Data Scientist (NCCU Data Analysis Student Club)** 
+- **LnData Taiwan Spirit Market Project — Project Manager & Data Scientist (NCCU Data Analysis Student Club)** 
 
   Repo: [LnData-Spirit-Market-Data-Analysis-Report](https://github.com/LuDanielPoyu/LnData-Spirit-Market-Data-Analysis-Report)
 - **National WAI AI Data Hackathon — Geospatial Retail Site Selection & Demand Forecasting (2nd place)** 
