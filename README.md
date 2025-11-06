@@ -19,7 +19,7 @@ I build retrieval-and-analytics systems that turn messy data into **audit-ready,
 - **Compliance Analysis of Corporate Social Responsibility (CSR) Reports - ML/NLP Engineer (National Chengchi University, NCCU)**
 
   Repo: [Compliance-Analysis-of-Corporate-Social-Responsibility-Reports](https://github.com/LuDanielPoyu/Compliance-Analysis-of-Corporate-Social-Responsibility-Reports)
-- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs with Classification, Question Answering, Summarization & Remediation - ML/Full-Stack Engineer (National Chengchi University, NCCU)** 
+- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs with Classification, Question Answering, Summarization & Remediation - ML/Full-Stack Engineer (NCCU)** 
 
   Repo: [Cowrie-Log-Helper](https://github.com/LuDanielPoyu/Cowrie-Log-Helper)
 - **National AI Cup NLP — Fact Retrieval & Claim Verification (4th place)**
