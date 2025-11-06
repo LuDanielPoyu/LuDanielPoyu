@@ -16,28 +16,28 @@ I build retrieval-and-analytics systems that turn messy data into **audit-ready,
 - **System Integration and Software Testing Intern - ASML**
   
   Repo: [ASML-System-Integration-and-Software-Testing-Engineer](https://github.com/LuDanielPoyu/ASML-System-Integration-and-Software-Testing-Engineer)
-- **Compliance Analysis of Corporate Social Responsibility (CSR) Reports - National Chengchi University (NCCU)**
+- **Compliance Analysis of Corporate Social Responsibility (CSR) Reports - ML/NLP Engineer - National Chengchi University (NCCU)**
 
   Repo: [Compliance-Analysis-of-Corporate-Social-Responsibility-Reports](https://github.com/LuDanielPoyu/Compliance-Analysis-of-Corporate-Social-Responsibility-Reports)
-- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs – Classification, Question Answering, Summarization & Remediation - National Chengchi University (NCCU)** 
+- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs – Classification, Question Answering, Summarization & Remediation - ML/Full-Stack Engineer - National Chengchi University (NCCU)** 
 
   Repo: [Cowrie-Log-Helper](https://github.com/LuDanielPoyu/Cowrie-Log-Helper)
-- **Fact Retrieval & Claim Verification - National AI Cup - NLP** 
+- **Fact Retrieval & Claim Verification - National AI Cup - NLP, 4th place** 
 
   Repo: [AICUP2023-NLP](https://github.com/mao-code/AICUP2023-NLP)
-- **LnData Taiwan Spirit Market Project - NCCU Data Analysis Student Club** 
+- **LnData Taiwan Spirit Market Project - Project Manager & Data Scientist - NCCU Data Analysis Student Club** 
 
   Repo: [LnData-Spirit-Market-Data-Analysis-Report](https://github.com/LuDanielPoyu/LnData-Spirit-Market-Data-Analysis-Report)
-- **Geospatial Retail Site Selection & Demand Forecasting - National WAI AI Data Hackathon** 
+- **Geospatial Retail Site Selection & Demand Forecasting - National WAI AI Data Hackathon, 2nd place** 
 
   Repo: [WAI-AI-Hackathon-Competition](https://github.com/LuDanielPoyu/2023-WAI-AI-Hackathon-Competition)
 - **IT Engineer Intern - Volkswagen Group**
 
   Repo: [Volkswagen-IT-Engineer](https://github.com/LuDanielPoyu/Volkswagen-IT-Engineer)
-- **NCCUPass App - NCCU Google Developer Student Club** 
+- **NCCUPass App - Backend Engineer - NCCU Google Developer Student Club** 
 
   Repo: [GDSC-NCCUPass-Project](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
-- **Android App: “Crazy Cooking” — Intelligent Cooking Assistant - National Technology Innovation Competition** 
+- **Android App: “Crazy Cooking” — Intelligent Cooking Assistant - National Technology Innovation Competition, 4th place** 
 
   Repo: [Crazy Cooking App](https://github.com/frafishen/CO2K)
   
