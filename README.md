@@ -1,44 +1,46 @@
-# Lu, Po-Yu (Daniel)
-**Data Analytics · Natural Language Processing (NLP) · Machine Learning (ML) · Decision-Grade Analytic**  
-I build retrieval-and-analytics systems that turn messy data into **audit-ready, actionable answers**.
+# Po-Yu (Daniel) Lu
+
+**Software Engineering · Machine Learning · Data Science**
+
+I build reliable software, data, and machine learning systems that turn complex data
+into scalable products and actionable insights.
+
+🎓 **Carnegie Mellon University** — M.S. in Computational Data Science  
+Expected Dec. 2027
+
+🎓 **National Chengchi University** — B.S. in Management Information Systems  
+Graduated Jun. 2025
+
+🏢 **McKinsey & Company** — Data Scientist, Software & Data Engineering  
+🏢 **ASML** — System Integration & Software Testing Intern  
+🏢 **Volkswagen Group** — IT / Software Engineering Intern  
+
+📫 danielpoyu6@gmail.com
 
 
-🎓  Carnegie Mellon University - Master of Computational Data Science (Fall 2026)
-  
-🏢  **McKinsey** Data Scientist (Full-Time, Jan. 2025 – Jan. 2026) · **ASML** System Integration and Software Testing Intern (Part-Time, Jan. 2024 – Dec. 2024) · **Volkswagen Group** IT Software Engineer Intern (Part-Time, July 2023 – Dec. 2023)
-  
-📫  danielpoyu6@gmail.com
+## Technical Interests
+
+**Software Engineering:** Backend Systems, APIs, Distributed Systems, Cloud Infrastructure  
+**Machine Learning:** NLP, LLMs, Retrieval-Augmented Generation, ML Systems  
+**Data Science:** Data Analytics, Experimentation, Forecasting, Information Retrieval
+
 
 ## Featured Projects
-- **McKinsey & Company — Data Scientist, Software & Data Engineering**  
 
-  Repo: [McKinsey-Data-Scientist](https://github.com/LuDanielPoyu/McKinsey-Data-Scientist)
-- **ASML — System Integration & Software Testing Intern**
-  
-  Repo: [ASML-System-Integration-and-Software-Testing-Engineer](https://github.com/LuDanielPoyu/ASML-System-Integration-and-Software-Testing-Engineer)
-- **Compliance Analysis of Corporate Social Responsibility (CSR) Reports — ML/NLP Engineer (National Chengchi University, NCCU)**
+### Software Engineering & ML Systems
 
-  Repo: [Compliance-Analysis-of-Corporate-Social-Responsibility-Reports](https://github.com/LuDanielPoyu/Compliance-Analysis-of-Corporate-Social-Responsibility-Reports)
-- **Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs with Classification, Question Answering, Summarization & Remediation — ML/Full-Stack Engineer (NCCU)** 
+#### Full-Stack LLM Integration for Zulip — Carnegie Mellon University
+Built LLM-powered unread-message recap and topic-title suggestion features in Zulip using Python/Django and TypeScript. Developed authenticated backend APIs, interactive frontend workflows, source-message linking, state handling, and automated backend/frontend tests.
 
-  Repo: [Cowrie-Log-Helper](https://github.com/LuDanielPoyu/Cowrie-Log-Helper)
-- **National AI Cup NLP — Fact Retrieval & Claim Verification (4th place)**
-  
-  Repo: [AICUP2023-NLP](https://github.com/mao-code/AICUP2023-NLP)
-- **LnData Taiwan Spirit Market Project — Project Manager & Data Scientist (NCCU Data Analysis Student Club)** 
+#### McKinsey & Company — Software & Data Engineering
+Built Python APIs, event-driven data collection systems, BigQuery pipelines,
+and GCP-hosted production workflows focused on scalability, reliability,
+and performance.
 
-  Repo: [LnData-Spirit-Market-Data-Analysis-Report](https://github.com/LuDanielPoyu/LnData-Spirit-Market-Data-Analysis-Report)
-- **National WAI AI Data Hackathon — Geospatial Retail Site Selection & Demand Forecasting (2nd place)** 
+Repo: [McKinsey-Data-Scientist](https://github.com/LuDanielPoyu/McKinsey-Data-Scientist)
 
-  Repo: [WAI-AI-Hackathon-Competition](https://github.com/LuDanielPoyu/2023-WAI-AI-Hackathon-Competition)
-- **Volkswagen Group — IT and Software Engineer Intern**
+#### NCCUPass — Backend Engineer
+Developed C# ASP.NET Core REST APIs backed by MongoDB and validated
+performance and correctness using k6 and xUnit.
 
-  Repo: [Volkswagen-IT-Engineer](https://github.com/LuDanielPoyu/Volkswagen-IT-Engineer)
-- **NCCUPass App — Backend Engineer (NCCU Google Developer Student Club)**
-
-  Repo: [GDSC-NCCUPass-Project](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
-- **Android App: “Crazy Cooking” — Intelligent Cooking Assistant - National Technology Innovation Competition (4th place)** 
-
-  Repo: [Crazy Cooking App](https://github.com/frafishen/CO2K)
-  
-> **Note:** Job related repos use sanitized descriptions and synthetic examples only.
+Repo: [GDSC-NCCUPass-Project](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
