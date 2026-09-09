@@ -1,11 +1,11 @@
 # Lu, Po-Yu (Daniel)
 **Data Analytics · Natural Language Processing (NLP) · Machine Learning (ML) · Decision-Grade Analytic**  
-I build retrieval-and-analytics systems that turn messy data into **audit-ready, actionable answers**—with a focus on sustainability and ESG compliance.
+I build retrieval-and-analytics systems that turn messy data into **audit-ready, actionable answers**.
 
 
-🎓  Applying to Master of Computer Science / Data Science (Fall 2026)
+🎓  Carnegie Mellon University - Master of Computational Data Science (Fall 2026)
   
-🏢  **McKinsey** Data Scientist (Full-Time, Jan. 2025 – Jan. 2026) · **ASML** System Integration and Software Testing Intern (Part-Time, Jan. 2024 – Dec. 2024) · **Volkswagen Group** IT Intern (Part-Time, July 2023 – Dec. 2023)
+🏢  **McKinsey** Data Scientist (Full-Time, Jan. 2025 – Jan. 2026) · **ASML** System Integration and Software Testing Intern (Part-Time, Jan. 2024 – Dec. 2024) · **Volkswagen Group** IT Software Engineer Intern (Part-Time, July 2023 – Dec. 2023)
   
 📫  danielpoyu6@gmail.com
 
