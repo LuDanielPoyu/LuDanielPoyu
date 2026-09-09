@@ -1,4 +1,4 @@
-# Po-Yu (Daniel) Lu
+# Lu Daniel Po-Yu
 
 **Software Engineering · Machine Learning · Data Science**
 
