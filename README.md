@@ -1,9 +1,15 @@
-# Lu Daniel Po-Yu
+# Daniel Po-Yu Lu
 
-**Software Engineering · Machine Learning · Data Science**
+**Software Engineering · Machine Learning Engineering · Data Science**
 
-I build reliable software, data, and machine learning systems that turn complex data
-into scalable products and actionable insights.
+I design and build scalable software systems, production machine learning solutions,
+and data products—from backend APIs and cloud infrastructure to LLM applications,
+modeling, and analytics.
+
+📍 Pittsburgh, PA, USA  
+📱 +1 (878) 999-3810  
+📫 danielpoyu6@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ludanielpoyu)
 
 🎓 **Carnegie Mellon University** — M.S. in Computational Data Science  
 Expected Dec. 2027
@@ -13,21 +19,29 @@ Graduated Jun. 2025
 
 🏢 **McKinsey & Company** — Data Scientist, Software & Data Engineering  
 🏢 **ASML** — System Integration & Software Testing Intern  
-🏢 **Volkswagen Group** — IT / Software Engineering Intern  
+🏢 **Volkswagen Group** — IT / Software Engineering Intern
 
-📫 danielpoyu6@gmail.com
+🎯 Seeking Summer 2027 opportunities in **Software Engineering, Machine Learning Engineering, and Data Science**.
 
 
 ## Technical Interests
 
-**Software Engineering:** Backend Systems, APIs, Distributed Systems, Cloud Infrastructure  
-**Machine Learning:** NLP, LLMs, Retrieval-Augmented Generation, ML Systems  
-**Data Science:** Data Analytics, Experimentation, Forecasting, Information Retrieval  
+**Software Engineering:** Backend Systems, REST APIs, Distributed Systems, Cloud Infrastructure  
+**Machine Learning:** NLP, LLMs, Retrieval-Augmented Generation, Information Retrieval, ML Systems  
+**Data Science:** Data Analytics, Experimentation, Forecasting, Data Visualization & Dashboards  
 
 
-## Featured Projects
+## Core Technologies
 
-### Software Engineering & ML Systems
+**Languages:** Python, Java, JavaScript, TypeScript, SQL, C#, C  
+**Frameworks:** Django, Flask, Spring Boot, ASP.NET Core, React  
+**Cloud & Infrastructure:** AWS, GCP, Azure, Docker, Kubernetes, Kafka  
+**Data Systems:** MySQL, MongoDB, BigQuery  
+
+
+## Featured Projects & Engineering Work
+
+### 💻 Software Engineering & ML Systems
 
 #### Full-Stack LLM Integration for Zulip — Carnegie Mellon University
 Built LLM-powered unread-message recap and topic-title suggestion features in Zulip using Python/Django and TypeScript. Developed authenticated backend APIs, interactive frontend workflows, source-message linking, state handling, and automated backend/frontend tests.
@@ -52,8 +66,15 @@ Developed C# ASP.NET Core REST APIs backed by MongoDB and validated performance 
 
 Repo: [GDSC-NCCUPass-Project](https://github.com/LuDanielPoyu/GDSC-NCCUPass-Project)
 
+#### Crazy Cooking — Intelligent Android Cooking Assistant
+Developed an Android application combining mobile software engineering, computer vision, and AI-assisted recipe functionality.
 
-### Machine Learning & NLP
+**4th Place — National Technology Innovation Competition**
+
+Repo: [Crazy Cooking App](https://github.com/frafishen/CO2K)
+
+
+### 🤖 Machine Learning & NLP
 
 #### Loglystics: Multi-Task NLP on Honeypot Attacker-Session Logs — ML / Full-Stack Engineer
 Developed NLP pipelines for classification, question answering, summarization, and remediation using FLAN-T5 and Llama 3, with Flask REST APIs and Django integration.
@@ -72,15 +93,8 @@ Developed NLP approaches for information retrieval, fact extraction, and claim v
 
 Repo: [AICUP2023-NLP](https://github.com/mao-code/AICUP2023-NLP)
 
-#### Crazy Cooking — Intelligent Android Cooking Assistant
-Developed an intelligent cooking assistant combining mobile application development, computer vision, and AI-assisted recipe functionality.
 
-**4th Place — National Technology Innovation Competition**
-
-Repo: [Crazy Cooking App](https://github.com/frafishen/CO2K)
-
-
-### Data Science & Analytics
+### 📊 Data Science & Analytics
 
 #### WAI AI Data Hackathon — Geospatial Retail Site Selection & Demand Forecasting
 Applied machine learning, geospatial analysis, forecasting, and model explainability to retail site selection and demand prediction.
@@ -90,11 +104,11 @@ Applied machine learning, geospatial analysis, forecasting, and model explainabi
 Repo: [WAI-AI-Hackathon-Competition](https://github.com/LuDanielPoyu/2023-WAI-AI-Hackathon-Competition)
 
 #### LnData Taiwan Spirit Market Project — Project Manager & Data Scientist
-Led a data analytics project involving text analysis, customer segmentation, market-basket analysis, and data-driven business recommendations.
+Led a data analytics project involving text analysis, customer segmentation, market-basket analysis, data visualization, and data-driven business recommendations.
 
 Repo: [LnData-Spirit-Market-Data-Analysis-Report](https://github.com/LuDanielPoyu/LnData-Spirit-Market-Data-Analysis-Report)
 
 
-> **Note:** Repositories describing professional work contain only sanitized descriptions,
+> **Note:** Repositories describing professional work contain only sanitized summaries,
 > independent implementations, and/or synthetic examples. No confidential or proprietary
-> employer data or source code is included.
+> employer data, source code, or internal materials are included.
