@@ -34,9 +34,10 @@ Graduated Jun. 2025
 ## Core Technologies
 
 **Languages:** Python, Java, JavaScript, TypeScript, SQL, C#, C  
-**Frameworks:** Django, Flask, Spring Boot, ASP.NET Core, React  
+**Backend:** Django, Flask, Spring Boot, ASP.NET Core, REST APIs  
 **Cloud & Infrastructure:** AWS, GCP, Azure, Docker, Kubernetes, Kafka  
-**Data Systems:** MySQL, MongoDB, BigQuery  
+**Data & ML:** BigQuery, MySQL, MongoDB, NLP, LLMs, RAG, ML Systems  
+**Testing & Tools:** Git, GitHub Actions, xUnit, Robot Framework, k6
 
 
 ## Featured Projects & Engineering Work
