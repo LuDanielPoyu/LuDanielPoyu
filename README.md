@@ -43,8 +43,10 @@ Graduated Jun. 2025
 
 ### 💻 Software Engineering & ML Systems
 
-#### Full-Stack LLM Integration for Zulip — Carnegie Mellon University
+#### Carnegie Mellon University — Full-Stack LLM Integration for Zulip
 Built LLM-powered unread-message recap and topic-title suggestion features in Zulip using Python/Django and TypeScript. Developed authenticated backend APIs, interactive frontend workflows, source-message linking, state handling, and automated backend/frontend tests.
+
+Repo: [Zulip-LLM-Features](https://github.com/LuDanielPoyu/zulip-llm-features)
 
 #### McKinsey & Company — Data Scientist, Software & Data Engineering
 Built Python APIs, event-driven data collection systems, BigQuery pipelines, and GCP-hosted production workflows focused on scalability, reliability, and performance.
