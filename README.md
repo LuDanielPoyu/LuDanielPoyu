@@ -36,7 +36,7 @@ Graduated Jun. 2025
 **Languages:** Python, Java, JavaScript, TypeScript, SQL, C#, C  
 **Backend:** Django, Flask, Spring Boot, ASP.NET Core, REST APIs  
 **Cloud & Infrastructure:** AWS, GCP, Azure, Docker, Kubernetes, Kafka  
-**Data & ML:** BigQuery, MySQL, MongoDB, NLP, LLMs, RAG, ML Systems  
+**Data & ML:** PyTorch, scikit-learn, Hugging Face, BigQuery, MySQL, MongoDB, NLP, LLMs, RAG 
 **Testing & Tools:** Git, GitHub Actions, xUnit, Robot Framework, k6
 
 
