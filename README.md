@@ -49,6 +49,11 @@ Built LLM-powered unread-message recap and topic-title suggestion features in Zu
 
 Repo: [Zulip-LLM-Features](https://github.com/LuDanielPoyu/zulip-llm-features)
 
+#### Real-Time Kafka Streaming Pipeline — Carnegie Mellon University
+Built a Python/Kafka streaming pipeline with partition and offset management, `seek()`-based replay, and recovery controls for reliable event ingestion and downstream processing.
+
+Repo: [kafka-streaming-pipeline](https://github.com/LuDanielPoyu/kafka-streaming-pipeline)
+
 #### McKinsey & Company — Data Scientist, Software & Data Engineering
 Built Python APIs, event-driven data collection systems, BigQuery pipelines, and GCP-hosted production workflows focused on scalability, reliability, and performance.
 
